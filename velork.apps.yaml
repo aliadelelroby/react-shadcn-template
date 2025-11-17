@@ -1,0 +1,5 @@
+apps:
+  - name: vite-app
+    port: 5173
+    subdomain: web
+    preview: true
