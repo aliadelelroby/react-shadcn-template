@@ -56,7 +56,7 @@
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2",
     "zod": "^3.25.67",
-    "@velork/browser-bridge": "^1.1.1"
+    "@velork/browser-bridge": "^1.1.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
